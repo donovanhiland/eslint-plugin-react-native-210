@@ -1,0 +1,3 @@
+rootProject.name = 'eslintpluginreactnative210'
+
+include ':app'
